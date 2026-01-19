@@ -4,4 +4,6 @@ You spot some type of clamp and fastening device, when a whisper at the bottom o
 
 He hates your pathetic attempt and kills you in one slash of his claw.
 
-*[Restart your life.](./intro.md)*
+*[Restart your life.](./intro.md)* 
+
+*[Beg for your life](./smart-mouth.md)*
