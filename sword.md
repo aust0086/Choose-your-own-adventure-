@@ -1,3 +1,15 @@
 ##  Find the Hidden Tresure in the Enchanted Forest with a sword
 
-You chose to use a sword and head into the forest. On your way to the treasure, you face many challenges, and you fight all kinds of monsters, Griffins, Manticores, Wyvern, and many more. Eventually, you get to a castle, just like the legend had said, and head inside. The last challenge was to defeat the dragon guarding the treasure. You defeat it, and the dragon dies. Now the only challenge left is what to do with all of the treasure. 
+You chose to Wield a sword and head into the forest. 
+
+As you make your way deeper into the forest, you face many challenges.
+
+You encounter all manner of beasts and monsters. Griffins, Manticores, Wyvern, and many more. 
+
+All fall to your blade. 
+
+Eventually, you stumble upon a castle, just as the legend had foretold, and head inside. As you approach the great hall, a dragon emerges from the dark and lets out a mighty roar. Your battle with the dragon is a test of all your skills up to this point. The dragon ultimalty falls to your blade. 
+
+You enter the great hall and find treasures beyond your wildest dreams. However a realization dawns on you.
+
+How are you supposed to get all of the treasure back to town and what are you going to spend it on?
