@@ -4,7 +4,7 @@ A sharp glint of light shines out in front of your eyes. The glint transforms in
 
 **Y/N:** "G- Grandma? is that you?"
 
-**Grandma:** That was literally so embarrassing... #disowned
+**Grandma:** "That was literally so embarrassing... #disowned"
 
 **Y/N:** :(
 
