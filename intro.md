@@ -5,7 +5,7 @@ While at the tavern you over hear some people talk about a local legend about tr
 
 
 
-*[Stapler](./stapler.md)*
-*[Cardboard box](Cardboard%20box.md)*
-*[Sword](./sword.md)*
+*[Stapler](./stapler.md)* \
+*[Cardboard box](Cardboard%20box.md)* \
+*[Sword](./sword.md)* 
 
