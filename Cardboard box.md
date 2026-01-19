@@ -1,4 +1,4 @@
-##  Find the Hidden Tresure in the Enchanted Forest with a....Cardboard box?
+##  Find the Hidden Treasure in the Enchanted Forest with a....Cardboard box?
 
 **Sigint:** "Uh, Y/N... What are you doing?"
 
@@ -39,3 +39,7 @@ Well then pick a smarter option next time you idiot!
 Sorry that was a little harsh.
 
 Anyways you should play **Metal Gear Solid 3: Snake Eater**.
+
+*[Restart your life. (Healed by healing vine)](./intro.md)*\
+*[Lay there and give up.](./bleedout.md)*\
+*[Get your box back.](./boxback.md)*
