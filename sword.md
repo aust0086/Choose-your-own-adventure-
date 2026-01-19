@@ -1,6 +1,6 @@
 ##  Find the Hidden Tresure in the Enchanted Forest with a sword
 
-You chose to Wield a sword and head into the forest. 
+You chose to wield a sword and head into the forest. 
 
 As you make your way deeper into the forest, you face many challenges.
 
